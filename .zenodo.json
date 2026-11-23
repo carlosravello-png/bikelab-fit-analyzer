@@ -1,0 +1,21 @@
+{
+  "title": "BikeLab FIT Analyzer",
+  "version": "2.0.0",
+  "upload_type": "software",
+  "description": "<p>Browser-only analyzer for cycling .fit activity files: cadence stability, speed/cadence stability, climbing stability, Variability Index (NP/AP, 30-second rolling mean on the 1 s series, zeros included, pauses from FIT timer events) and power:heart-rate decoupling, each with a Monte Carlo uncertainty band.</p><p>Version 2.0.0 replaces the FIT reader of 1.0.0, which returned zero records for Garmin files. The new reader matches Garmin's decoder (@garmin/fitsdk 21.222.0) field by field on 47 public and 4 synthetic files (218,537 records, 0 differences) and fitdecode on 5 files the Garmin JavaScript SDK cannot read (9,627 records, 0 differences). VI thresholds come from the TrainingPeaks reference table; the other thresholds are unvalidated heuristics. Results are not comparable with 1.0.0.</p><p>FIT is a protocol of Garmin International; this software contains no Garmin code and is not affiliated with Garmin.</p>",
+  "creators": [
+    {
+      "name": "Ravello Joo, Carlos Eduardo",
+      "orcid": "0009-0007-5631-7436",
+      "affiliation": "BikeLab Studio"
+    }
+  ],
+  "license": "polyform-noncommercial-1.0.0",
+  "keywords": ["cycling", "FIT file", "normalized power", "variability index", "cadence", "Monte Carlo"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.20673166", "relation": "isNewVersionOf", "scheme": "doi"},
+    {"identifier": "https://www.bikelabstudio.com/articles/fit-analyzer-en", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://github.com/carlosravello-png/bikelab-fit-analyzer", "relation": "isSupplementTo", "scheme": "url"}
+  ],
+  "language": "eng"
+}

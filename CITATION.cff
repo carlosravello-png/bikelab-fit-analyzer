@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "BikeLab FIT Analyzer"
+version: 2.0.0
+date-released: 2026-11-23
+type: software
+license: PolyForm-Noncommercial-1.0.0
+authors:
+  - family-names: "Ravello Joo"
+    given-names: "Carlos Eduardo"
+    orcid: "https://orcid.org/0009-0007-5631-7436"
+    affiliation: "BikeLab Studio"
+repository-code: "https://github.com/carlosravello-png/bikelab-fit-analyzer"
+url: "https://www.bikelabstudio.com/articles/fit-analyzer-en"
+abstract: >-
+  Browser-only analyzer for cycling .fit activity files. The FIT reader is validated
+  field by field against the Garmin FIT SDK and fitdecode on public test files.
+  Metrics: cadence stability, speed/cadence stability, climbing stability, Variability
+  Index (NP/AP) and power:heart-rate decoupling, with Monte Carlo uncertainty bands.
+keywords:
+  - cycling
+  - FIT file
+  - normalized power
+  - variability index
+  - cadence
+  - Monte Carlo

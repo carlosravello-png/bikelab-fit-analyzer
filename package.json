@@ -1,0 +1,18 @@
+{
+  "name": "bikelab-fit-analyzer",
+  "version": "2.0.0",
+  "private": true,
+  "description": "FIT file analyzer for cycling: FIT reader validated against the Garmin FIT SDK, NP/VI, cadence and climbing stability with Monte Carlo uncertainty.",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "author": "Carlos Eduardo Ravello Joo (https://orcid.org/0009-0007-5631-7436)",
+  "main": "fit_engine.js",
+  "scripts": {
+    "corpus": "node tools/fetch_corpus.mjs",
+    "test": "node test/run_all.mjs",
+    "golden": "node test/engine_golden.mjs --write",
+    "check:page": "node test/page_identity.mjs"
+  },
+  "devDependencies": {
+    "@garmin/fitsdk": "21.222.0"
+  }
+}

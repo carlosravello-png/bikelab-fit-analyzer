@@ -1,0 +1,445 @@
+{
+ "note": "Public FIT test files, downloaded at test time from pinned commits; not redistributed here.",
+ "files": [
+  {
+   "repo": "garmin/fit-javascript-sdk",
+   "commit": "76389067bafab17e2b75b98332a75c20d7699ff5",
+   "path": "test/data/Activity.fit",
+   "sha256": "949a238e1bb75c3684479785f76fa9a16888bb394518844248f488171d591387",
+   "bytes": 94096,
+   "name": "fit-javascript-sdk__test_data_Activity.fit"
+  },
+  {
+   "repo": "garmin/fit-javascript-sdk",
+   "commit": "76389067bafab17e2b75b98332a75c20d7699ff5",
+   "path": "test/data/HrmPluginTestActivity.fit",
+   "sha256": "8f58b1449e9ca35496138da29a4050048e501d095b1202786bbae577ad131c8a",
+   "bytes": 19220,
+   "name": "fit-javascript-sdk__test_data_HrmPluginTestActivity.fit"
+  },
+  {
+   "repo": "garmin/fit-javascript-sdk",
+   "commit": "76389067bafab17e2b75b98332a75c20d7699ff5",
+   "path": "test/data/WithGearChangeData.fit",
+   "sha256": "7220d6a86e0bafcb1884070081757a2a65caa83d46afccc113ebbe17df60fa79",
+   "bytes": 74645,
+   "name": "fit-javascript-sdk__test_data_WithGearChangeData.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/2013-02-06-12-11-14.fit",
+   "sha256": "e72c0dcc3b0ad535f35ddd5db16ca057b04c96d8c5987c5b1dc546cdd9802d48",
+   "bytes": 17925,
+   "name": "python-fitparse__tests_files_2013-02-06-12-11-14.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/2015-10-13-08-43-15.fit",
+   "sha256": "e97a45cbdd2db3a465e71e2eab62b726b19b3448242b4e159abf6e90081e7400",
+   "bytes": 5503,
+   "name": "python-fitparse__tests_files_2015-10-13-08-43-15.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/20170518-191602-1740899583.fit",
+   "sha256": "947273ec1519fe7a9b80afcc2adfaec163fe7bae19a5174a81d29bcad8944833",
+   "bytes": 56960,
+   "name": "python-fitparse__tests_files_20170518-191602-1740899583.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/2019-02-17-062644-ELEMNT-297E-195-0.fit",
+   "sha256": "3f73dc39741c63f3883e2db9f80447f421a3845e7313d900a8ec66629b49a656",
+   "bytes": 715726,
+   "name": "python-fitparse__tests_files_2019-02-17-062644-ELEMNT-297E-195-0.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/Edge810-Vector-2013-08-16-15-35-10.fit",
+   "sha256": "e278d20809b1fda62f4b60dfe291a4b16f00933ad37e923a99e5a59bb48f6eab",
+   "bytes": 148037,
+   "name": "python-fitparse__tests_files_Edge810-Vector-2013-08-16-15-35-10.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/MonitoringFile.fit",
+   "sha256": "ba649a820fce71510540db8280958f0d1f966506d1f79e545bbdb573c79dfdc8",
+   "bytes": 2087,
+   "name": "python-fitparse__tests_files_MonitoringFile.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/Settings.fit",
+   "sha256": "dcf0cc53deddc77925052529dc1bbfc529dec41600833568473af98e986bfdbe",
+   "bytes": 1287,
+   "name": "python-fitparse__tests_files_Settings.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/Settings2.fit",
+   "sha256": "93b3723ade8a6c6db9cfe342275e2b607727762b1e46dbbfb6d60e2019dff1ee",
+   "bytes": 1737,
+   "name": "python-fitparse__tests_files_Settings2.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/activity-activity-filecrc.fit",
+   "sha256": "6c794bbbb95240f990d292abfe31303158c2a5667da6f8e21ab76f2711866bde",
+   "bytes": 1542,
+   "name": "python-fitparse__tests_files_activity-activity-filecrc.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/activity-large-fenxi2-multisport.fit",
+   "sha256": "446a91e2b887fb510298a4dd9073263faaf9250db4f8fe70a9151f0877ffd5e0",
+   "bytes": 1044262,
+   "name": "python-fitparse__tests_files_activity-large-fenxi2-multisport.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/activity-small-fenix2-run.fit",
+   "sha256": "a066d77db247c152c9583bddaecd33d36327bacc0821694ab795fe25671a8327",
+   "bytes": 121839,
+   "name": "python-fitparse__tests_files_activity-small-fenix2-run.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/antfs-dump.63.fit",
+   "sha256": "fd78336d433be3789be3e0e29ed46a9f1ee82a59879981205d7c2c2e73b9ee99",
+   "bytes": 1933,
+   "name": "python-fitparse__tests_files_antfs-dump.63.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/compressed-speed-distance.fit",
+   "sha256": "bdb23e5a3cde464f02932c0194c4194176001cd5951aed653d2dd5c1a6a04d79",
+   "bytes": 5785,
+   "name": "python-fitparse__tests_files_compressed-speed-distance.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/coros-pace-2-cycling-misaligned-fields.fit",
+   "sha256": "1a9c2923f7bc66fadfb812bb9cdf67891b0eb912cfba4da0a55f0e5d423a691d",
+   "bytes": 258990,
+   "name": "python-fitparse__tests_files_coros-pace-2-cycling-misaligned-fields.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/developer-types-sample.fit",
+   "sha256": "9722b5c99e0e7fe3b8371566b04e432679ec8d54d3519c67b5efebaf9f47259e",
+   "bytes": 147940,
+   "name": "python-fitparse__tests_files_developer-types-sample.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/elemnt-bolt-no-application-id-inside-developer-data-id.fit",
+   "sha256": "dc8cc83b2a0f89c7ea9921bbbe6e9036306d8ed579ded13915ea3adb13ce112a",
+   "bytes": 5094,
+   "name": "python-fitparse__tests_files_elemnt-bolt-no-application-id-inside-developer-data-id.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/event_timestamp.fit",
+   "sha256": "d9eb932b12fe2d28f8cb0b1e18cd9701927cde0d1eb59edf806eabe9e1b7f4e9",
+   "bytes": 88904,
+   "name": "python-fitparse__tests_files_event_timestamp.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/garmin-edge-500-activity.fit",
+   "sha256": "656b13b54ef57251503a050fa6c1c1f38e1374ba90aa414f9901cd9f1f6d383e",
+   "bytes": 356829,
+   "name": "python-fitparse__tests_files_garmin-edge-500-activity.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/garmin-edge-820-bike.fit",
+   "sha256": "ae4332ceec567ede98cb2cbb84b735a2f367908b7881ae15783acb2ccca6a8ec",
+   "bytes": 4229,
+   "name": "python-fitparse__tests_files_garmin-edge-820-bike.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/garmin-fenix-5-bike.fit",
+   "sha256": "9206d34ba9c6283eb24337410c66d9d2f9b134d709ba2cf97bb5e20ae28f6314",
+   "bytes": 4664,
+   "name": "python-fitparse__tests_files_garmin-fenix-5-bike.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/garmin-fenix-5-run.fit",
+   "sha256": "db12d0986f3b707802480d6a79bc6bf5d3061010ffe98a1b99115dd44e75f5be",
+   "bytes": 5597,
+   "name": "python-fitparse__tests_files_garmin-fenix-5-run.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/garmin-fenix-5-walk.fit",
+   "sha256": "1a3e05a7379efc24c458080a3659b21c64b352ca1c5f7de13c687b3783835f38",
+   "bytes": 5187,
+   "name": "python-fitparse__tests_files_garmin-fenix-5-walk.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/nick.fit",
+   "sha256": "8008b7893e0ed8a4c5384a04f3104fba94264d3baa0052a2775a452deaca7a74",
+   "bytes": 403456,
+   "name": "python-fitparse__tests_files_nick.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/null_compressed_speed_dist.fit",
+   "sha256": "05eadfbf9e41f8c5bd45de4cb4c0e5840da9428fcd0be46e8e4d330814528daa",
+   "bytes": 67518,
+   "name": "python-fitparse__tests_files_null_compressed_speed_dist.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/sample-activity-indoor-trainer.fit",
+   "sha256": "1ec64427b0feaa8031e0832426164c1266ae5db939d0f45fcd00cd198c33f0b7",
+   "bytes": 28628,
+   "name": "python-fitparse__tests_files_sample-activity-indoor-trainer.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/sample-activity.fit",
+   "sha256": "9a17df6ade75c9290f448f405f2f73bee71cbc70b78321fcd97299c8f0f813ab",
+   "bytes": 104761,
+   "name": "python-fitparse__tests_files_sample-activity.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/sample_mulitple_header.fit",
+   "sha256": "910454f2718036f2aa8312a41a061231792a4569fc5f30e0c415ad4ebe0b13dd",
+   "bytes": 80854,
+   "name": "python-fitparse__tests_files_sample_mulitple_header.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/strava-android-app-201.10-b1218918.fit",
+   "sha256": "87020eec113d654ff8a0ddd00518d50918b24a7b8025055bab9421e9d199a45a",
+   "bytes": 78233,
+   "name": "python-fitparse__tests_files_strava-android-app-201.10-b1218918.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/garmin-stamina.fit",
+   "sha256": "ea56ec77ede69b2f662b63431008a3cc891c398a58717fbfcf5e06eb9605a50e",
+   "bytes": 386733,
+   "name": "fit-parser__test_garmin-stamina.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/jumps-mtb.fit",
+   "sha256": "45f04052d62f810d316defb674fd61c469ca67b82676cf1aea76aed69f85d57c",
+   "bytes": 410254,
+   "name": "fit-parser__test_jumps-mtb.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/running-with-developer-data.fit",
+   "sha256": "cae3577844025f53140359e49f249d30f3abcb1d8d101f69c97d3fa0d22a314a",
+   "bytes": 129907,
+   "name": "fit-parser__test_running-with-developer-data.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/snorkeling-unknown-sport.fit",
+   "sha256": "fcd056b8ae4a42520df803604dd3e41cd81b97481dc62695ccba7768ffcccec9",
+   "bytes": 37694,
+   "name": "fit-parser__test_snorkeling-unknown-sport.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/test-diving.fit",
+   "sha256": "368f28b8ba0538fda6fa2ed9379c88792efd4ce1cecc1a818afdf1420589c22b",
+   "bytes": 154014,
+   "name": "fit-parser__test_test-diving.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/test.fit",
+   "sha256": "649d03fc549282c71516e2ab6a10f0cab5d283796d669a2b8231b031667fdd56",
+   "bytes": 95632,
+   "name": "fit-parser__test_test.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/test2.fit",
+   "sha256": "ea84fe530d2addab8b08a83688451eac7b23ca98e3dca533c435effb94d614e9",
+   "bytes": 268423,
+   "name": "fit-parser__test_test2.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/user_metrics.fit",
+   "sha256": "6fcfe3db204bf14e390ecf4af865c7c1014204fcf4d3337748b95f94556af93b",
+   "bytes": 22465,
+   "name": "fit-parser__test_user_metrics.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "test/user_metrics_extended.fit",
+   "sha256": "eb2a9dc7b6df7c6449ec3fd8bd45246581e34a628156a76e68131cbae0ce3da8",
+   "bytes": 617748,
+   "name": "fit-parser__test_user_metrics_extended.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "examples/batt.fit",
+   "sha256": "0492866753a7ba2eba0db1c5b01aa65e66b7734bb89a5f3fc7dce4d879be69ef",
+   "bytes": 315377,
+   "name": "fit-parser__examples_batt.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "examples/downhill.fit",
+   "sha256": "9ffed66dce89158cdfcb62d34ff74f1cb7f4ecd310330f11f8da085171748d89",
+   "bytes": 986110,
+   "name": "fit-parser__examples_downhill.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "examples/failed.fit",
+   "sha256": "1656818ed08bee6ce7b3c8e8f18710964a13ef162c20d13dca091177dcc240ce",
+   "bytes": 16289,
+   "name": "fit-parser__examples_failed.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "examples/file-with-zones.fit",
+   "sha256": "3eaed2646222a5eed040a4e373520d170660ce429401d4e24e009c2a7479fb74",
+   "bytes": 391424,
+   "name": "fit-parser__examples_file-with-zones.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "examples/road-with-power.fit",
+   "sha256": "a6c79d0672f81cd3f7bf20e8f084819ae3b1a7e38af1dc4e9b98dddab56d6427",
+   "bytes": 275598,
+   "name": "fit-parser__examples_road-with-power.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "examples/suunto-weight.fit",
+   "sha256": "06770696586fc2c18b697ab4e6b9a5dd11cdc88e6bb9ceec353968f3cb03c206",
+   "bytes": 52802,
+   "name": "fit-parser__examples_suunto-weight.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "examples/triathlon_summary_first.fit",
+   "sha256": "774ea26bf70b4204b3315532016edd14b7cfc9a5b3c8b305c1219970cd85e6d3",
+   "bytes": 214122,
+   "name": "fit-parser__examples_triathlon_summary_first.fit"
+  },
+  {
+   "repo": "jimmykane/fit-parser",
+   "commit": "5c3f60d87b24ef2978daa888c8632b9f6ff5f9b8",
+   "path": "examples/triathlon_summary_last.fit",
+   "sha256": "ce81c2557f7a08e5ad42cf891bec191d57d40e1e78130963711de2f198f63372",
+   "bytes": 273654,
+   "name": "fit-parser__examples_triathlon_summary_last.fit"
+  },
+  {
+   "repo": "tormoder/fit",
+   "commit": "e0d27005ab71b74f34a64f9fab836d375fac875b",
+   "path": "testdata/bpg/garmin.fit",
+   "sha256": "dc352ab9e082ecc10038416e69d44534cc0b3e3d4cd545f4e37429b510df2d73",
+   "bytes": 487633,
+   "name": "fit__testdata_bpg_garmin.fit"
+  },
+  {
+   "repo": "tormoder/fit",
+   "commit": "e0d27005ab71b74f34a64f9fab836d375fac875b",
+   "path": "testdata/fitsdk/activity_poolswim_with_hr.fit",
+   "sha256": "d8b32283a7225bb79d108de5defe84359b01836712fcc3ae4b35d385c702bf58",
+   "bytes": 56694,
+   "name": "fit__testdata_fitsdk_activity_poolswim_with_hr.fit"
+  },
+  {
+   "repo": "tormoder/fit",
+   "commit": "e0d27005ab71b74f34a64f9fab836d375fac875b",
+   "path": "testdata/misc/0134902991.fit",
+   "sha256": "f1b7b0a396f3bc5c51ccf89b8542fe5eb9a33c350d732335f4a659a91a475e5f",
+   "bytes": 23506,
+   "name": "fit__testdata_misc_0134902991.fit"
+  },
+  {
+   "repo": "tormoder/fit",
+   "commit": "e0d27005ab71b74f34a64f9fab836d375fac875b",
+   "path": "testdata/misc/mornindew-broken.fit",
+   "sha256": "a47925750371f1c088534676d6afdcdf93560f29abe0e4457b8b35ed3a023c9d",
+   "bytes": 317999,
+   "name": "fit__testdata_misc_mornindew-broken.fit"
+  },
+  {
+   "repo": "tormoder/fit",
+   "commit": "e0d27005ab71b74f34a64f9fab836d375fac875b",
+   "path": "testdata/misc/unterminated-strings.fit",
+   "sha256": "f552a9f0cd54204e0d702e0ac240dfde439f34a2b326ffb85b9c92e8ec5c7ace",
+   "bytes": 3894,
+   "name": "fit__testdata_misc_unterminated-strings.fit"
+  },
+  {
+   "repo": "polyvertex/fitdecode",
+   "commit": "130028b01974605e33f7d3bb59ce69dd5ef74412",
+   "path": "tests/files/garmin-fr935-cr.fit",
+   "sha256": "13727a7563f67c35c13eef2b74ed43d205707996e302ed8e00c1b24fabdbff22",
+   "bytes": 222283,
+   "name": "fitdecode__tests_files_garmin-fr935-cr.fit"
+  },
+  {
+   "repo": "dtcooper/python-fitparse",
+   "commit": "d88bb6997138c38d0c578aeaaf4108df0711d1f6",
+   "path": "tests/files/compressed-speed-distance-records.csv",
+   "sha256": "a9bd3198f8f43b4af1ba56cc1b921abe089c8ab1194f03347f954d0ea75ba082",
+   "bytes": 22475,
+   "name": "python-fitparse__compressed-speed-distance-records.csv"
+  }
+ ]
+}

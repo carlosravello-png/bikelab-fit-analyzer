@@ -1,0 +1,332 @@
+{
+ "data/synth/synth_fields.fit|ruta": {
+  "cv": [
+   "stable",
+   0
+  ],
+  "vc": [
+   "stable",
+   0.01932653644238521
+  ],
+  "ies": [
+   "na",
+   null
+  ],
+  "vi": [
+   "stable",
+   0.9999896376660818
+  ],
+  "pw": [
+   "stable",
+   -0.015835631535050472
+  ]
+ },
+ "data/synth/synth_fields.fit|mtb": {
+  "cv": [
+   "stable",
+   0
+  ],
+  "vc": [
+   "stable",
+   0.01932653644238521
+  ],
+  "ies": [
+   "na",
+   null
+  ],
+  "vi": [
+   "stable",
+   0.9999896376660818
+  ],
+  "pw": [
+   "stable",
+   -0.015835631535050472
+  ]
+ },
+ "data/synth/synth_fields.fit|gravel": {
+  "cv": [
+   "stable",
+   0
+  ],
+  "vc": [
+   "stable",
+   0.01932653644238521
+  ],
+  "ies": [
+   "na",
+   null
+  ],
+  "vi": [
+   "stable",
+   0.9999896376660818
+  ],
+  "pw": [
+   "stable",
+   -0.015835631535050472
+  ]
+ },
+ "data/synth/synth_pause.fit|ruta": {
+  "cv": [
+   "na",
+   null
+  ],
+  "vc": [
+   "na",
+   null
+  ],
+  "ies": [
+   "na",
+   null
+  ],
+  "vi": [
+   "warning",
+   1.1563999854614628
+  ],
+  "pw": [
+   "stable",
+   1.643360940169415
+  ]
+ },
+ "data/synth/synth_pause.fit|mtb": {
+  "cv": [
+   "na",
+   null
+  ],
+  "vc": [
+   "na",
+   null
+  ],
+  "ies": [
+   "na",
+   null
+  ],
+  "vi": [
+   "warning",
+   1.1563999854614628
+  ],
+  "pw": [
+   "stable",
+   1.643360940169415
+  ]
+ },
+ "data/synth/synth_pause.fit|gravel": {
+  "cv": [
+   "na",
+   null
+  ],
+  "vc": [
+   "na",
+   null
+  ],
+  "ies": [
+   "na",
+   null
+  ],
+  "vi": [
+   "warning",
+   1.1563999854614628
+  ],
+  "pw": [
+   "stable",
+   1.643360940169415
+  ]
+ },
+ "data/synth/synth_bigendian.fit|ruta": {
+  "cv": [
+   "stable",
+   0.02301828801265693
+  ],
+  "vc": [
+   "stable",
+   0.03705734382978463
+  ],
+  "ies": [
+   "stable",
+   0.025733970827787007
+  ],
+  "vi": [
+   "stable",
+   0.9999879965352754
+  ],
+  "pw": [
+   "stable",
+   -0.0100299148611436
+  ]
+ },
+ "data/synth/synth_bigendian.fit|mtb": {
+  "cv": [
+   "stable",
+   0.02301828801265693
+  ],
+  "vc": [
+   "stable",
+   0.03705734382978463
+  ],
+  "ies": [
+   "stable",
+   0.025733970827787007
+  ],
+  "vi": [
+   "stable",
+   0.9999879965352754
+  ],
+  "pw": [
+   "stable",
+   -0.0100299148611436
+  ]
+ },
+ "data/synth/synth_bigendian.fit|gravel": {
+  "cv": [
+   "stable",
+   0.02301828801265693
+  ],
+  "vc": [
+   "stable",
+   0.03705734382978463
+  ],
+  "ies": [
+   "stable",
+   0.025733970827787007
+  ],
+  "vi": [
+   "stable",
+   0.9999879965352754
+  ],
+  "pw": [
+   "stable",
+   -0.0100299148611436
+  ]
+ },
+ "corpus/fit-javascript-sdk__test_data_WithGearChangeData.fit|ruta": {
+  "cv": [
+   "fail",
+   0.07576654177684883
+  ],
+  "vc": [
+   "fail",
+   0.22812368322895119
+  ],
+  "ies": [
+   "fail",
+   0.30976399571047003
+  ],
+  "vi": [
+   "warning",
+   1.223046601827942
+  ],
+  "pw": [
+   "stable",
+   2.1486212956412007
+  ]
+ },
+ "corpus/fit-javascript-sdk__test_data_WithGearChangeData.fit|mtb": {
+  "cv": [
+   "warning",
+   0.07576654177684883
+  ],
+  "vc": [
+   "fail",
+   0.22812368322895119
+  ],
+  "ies": [
+   "fail",
+   0.30976399571047003
+  ],
+  "vi": [
+   "warning",
+   1.223046601827942
+  ],
+  "pw": [
+   "stable",
+   2.1486212956412007
+  ]
+ },
+ "corpus/fit-javascript-sdk__test_data_WithGearChangeData.fit|gravel": {
+  "cv": [
+   "warning",
+   0.07576654177684883
+  ],
+  "vc": [
+   "fail",
+   0.22812368322895119
+  ],
+  "ies": [
+   "fail",
+   0.30976399571047003
+  ],
+  "vi": [
+   "warning",
+   1.223046601827942
+  ],
+  "pw": [
+   "stable",
+   2.1486212956412007
+  ]
+ },
+ "corpus/fit-javascript-sdk__test_data_Activity.fit|ruta": {
+  "cv": [
+   "fail",
+   0.3297837293013136
+  ],
+  "vc": [
+   "na",
+   null
+  ],
+  "ies": [
+   "fail",
+   0.32620232521563775
+  ],
+  "vi": [
+   "warning",
+   1.0737534898812662
+  ],
+  "pw": [
+   "stable",
+   0.3562123055341035
+  ]
+ },
+ "corpus/fit-javascript-sdk__test_data_Activity.fit|mtb": {
+  "cv": [
+   "fail",
+   0.3297837293013136
+  ],
+  "vc": [
+   "na",
+   null
+  ],
+  "ies": [
+   "fail",
+   0.32620232521563775
+  ],
+  "vi": [
+   "stable",
+   1.0737534898812662
+  ],
+  "pw": [
+   "stable",
+   0.3562123055341035
+  ]
+ },
+ "corpus/fit-javascript-sdk__test_data_Activity.fit|gravel": {
+  "cv": [
+   "fail",
+   0.3297837293013136
+  ],
+  "vc": [
+   "na",
+   null
+  ],
+  "ies": [
+   "fail",
+   0.32620232521563775
+  ],
+  "vi": [
+   "warning",
+   1.0737534898812662
+  ],
+  "pw": [
+   "stable",
+   0.3562123055341035
+  ]
+ }
+}
