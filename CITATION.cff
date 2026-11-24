@@ -5,6 +5,14 @@ version: 2.0.0
 date-released: 2026-11-23
 type: software
 license: PolyForm-Noncommercial-1.0.0
+doi: 10.5281/zenodo.24485834
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24485833
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.24485834
+    description: "Version 2.0.0"
 authors:
   - family-names: "Ravello Joo"
     given-names: "Carlos Eduardo"

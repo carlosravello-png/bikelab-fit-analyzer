@@ -2,6 +2,7 @@
 
 [![verify](https://github.com/carlosravello-png/bikelab-fit-analyzer/actions/workflows/verify.yml/badge.svg)](https://github.com/carlosravello-png/bikelab-fit-analyzer/actions/workflows/verify.yml)
 [![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-c8922a)](LICENSE.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24485833.svg)](https://doi.org/10.5281/zenodo.24485833)
 
 The engine of the [BikeLab FIT Analyzer](https://www.bikelabstudio.com/articles/fit-analyzer-en): it reads a `.fit`
 activity file in the browser and reports cadence stability, drivetrain (speed/cadence) stability, climbing stability,
@@ -16,7 +17,8 @@ is copied byte for byte from them, and `npm run check:page` verifies it (SHA-256
 
 ## What changed from 1.0.0
 
-Version 1.0.0 (Zenodo [10.5281/zenodo.20673166](https://doi.org/10.5281/zenodo.20673166)) had a FIT reader that
+Version 1.0.0 (Zenodo record [10.5281/zenodo.20673166](https://doi.org/10.5281/zenodo.20673166); its two uploads of
+13 June 2026 are labelled "(no version)" and "2.0" in Zenodo, but the live page cited that code as 1.0.0) had a FIT reader that
 stopped at the first data message of local type 0. Garmin devices write `file_id` there, so it returned **zero
 records** for Garmin's own test files. Results from 1.0.0 are not comparable with 2.0.0.
 
@@ -106,8 +108,9 @@ own licence. BikeLab Studio is not affiliated with Garmin. See `NOTICE`.
 [PolyForm Noncommercial 1.0.0](LICENSE.md): free for any noncommercial purpose, including research, teaching and
 personal use. Commercial use needs written permission from the author.
 
-Ravello Joo, C. E. (2026). *BikeLab FIT Analyzer* (Version 2.0.0) [Software]. Zenodo.
-See `CITATION.cff`; the DOI is added after the Zenodo release.
+> Ravello Joo, C. E. (2026). *BikeLab FIT Analyzer* (Version 2.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24485834
+
+All versions: DOI [10.5281/zenodo.24485833](https://doi.org/10.5281/zenodo.24485833). See `CITATION.cff`.
 
 Author: Carlos Eduardo Ravello Joo — BikeLab Studio, Trujillo, Peru — ORCID
 [0009-0007-5631-7436](https://orcid.org/0009-0007-5631-7436).
